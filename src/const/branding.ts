@@ -17,13 +17,13 @@ export const BRANDING_URL = {
 
 export const SOCIAL_URL = {
   discord: 'https://discord.gg/AYFPHvv2jT',
-  github: 'https://github.com/hub',
-  medium: 'https://medium.com/@hub',
-  x: 'https://x.com/hub',
-  youtube: 'https://www.youtube.com/@hub',
+  github: 'https://github.com/lobehub',
+  medium: 'https://medium.com/@lobehub',
+  x: 'https://x.com/lobehub',
+  youtube: 'https://www.youtube.com/@lobehub',
 };
 
 export const BRANDING_EMAIL = {
-  business: 'hello@hub.com',
-  support: 'support@hub.com',
+  business: 'hello@Tsuihub.com',
+  support: 'support@Tsuihub.com',
 };
